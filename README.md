@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on **MERN stack**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently working on **ReactJS**
 
-- 🤝 I’m looking for help with **UsmanShehzad-git**
+- 🤝 I’m currently collaborating with **UsmanShehzad-git**
 
 - 💬 Ask me about **Web Developing**
 
 - 📫 How to reach me **buttasad569@gmail.com**
 
-- ⚡ Fun fact **Coding is easy, but I'm busy**
+- ⚡ Fun fact **There's nothing difficult to achieve, it's difficult to start!**
 - 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mr-asad-git&label=Profile%20views&color=0e75b6&style=flat" alt="mr-asad-git" /> </p>
 
