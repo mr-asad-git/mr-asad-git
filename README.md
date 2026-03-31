@@ -2,21 +2,21 @@
 <h1 align="center">Muhammad Asad Ullah</h1>
 <h3 align="center">A passionate full-stack developer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-asad-git" alt="mr-asad-git" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-asad-git" alt="mr-asad-git" /></a> </p> -->
 
 <img align="right" height=40% width=40% src="https://media4.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
 
-- 🔭 I’m currently working on **MERN stack**
+- 🔭 I’m currently working on **: MERN stack**
 
-- 🌱 I’m currently working on **ReactJS**
+- 🌱 I’m currently working on **: ReactJS**
 
-- 🤝 I’m currently collaborating with **UsmanShehzad-git**
+- 🤝 I’m currently collaborating with **: UsmanShehzad-git**
 
-- 💬 Ask me about **Web Developing**
+- 💬 Ask me about **: Web Developing**
 
-- 📫 How to reach me **buttasad569@gmail.com**
+- 📫 How to reach me **: buttasad569@gmail.com**
 
-- ⚡ Fun fact **There's nothing difficult to achieve, it's difficult to start!**
+- ⚡ Fun fact **: There's nothing difficult to achieve, it's difficult to start!**
 - 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mr-asad-git&label=Profile%20views&color=0e75b6&style=flat" alt="mr-asad-git" /> </p>
 
