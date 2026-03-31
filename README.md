@@ -6,7 +6,7 @@
 
 <img align="right" height=40% width=40% src="https://media4.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
 
-- 🔭 I’m currently working on **Laravel platform**
+- 🔭 I’m currently working on **MERN stack**
 
 - 🌱 I’m currently learning **ReactJS**
 
