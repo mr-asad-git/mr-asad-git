@@ -19,6 +19,26 @@
 <br/>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Asad%20Ullah&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Specialist&descSize=16&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=620&height=80&lines=Building+the+web%2C+one+commit+at+a+time.+%F0%9F%9A%80;MERN+Stack+%7C+React.js+%7C+Node.js+%7C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+---
+
+### 👨‍💻 About Me
+
+<br/>
+
+<div align="center">
 
 | | |
 |:---|:---|
@@ -111,6 +131,46 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-asad-git&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
+
+<br/>
+
+---
+
+### 🏆 GitHub Trophies
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mr-asad-git&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" />
+</div>
+
+<br/>
+
+---
+
+### 🌐 Let's Connect
+
+<br/>
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%40asadbutt8470-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asadbutt8470/)
+[![YouTube](https://img.shields.io/badge/YouTube-%40storm--ou7ut-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@storm-ou7ut)
+[![Gmail](https://img.shields.io/badge/Gmail-buttasad569%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:buttasad569@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mr-asad-git&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
 </div>
 
 <br/>
